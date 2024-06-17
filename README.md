@@ -27,10 +27,10 @@ Here are some ideas to get you started:
   <br/>
 🤝 I'm open to collaborate to **open-source projects and connecting with fellow developers**👨‍💻
   <br/>
-  Here are a few projects I've been working on:
+  Here are a few projects I've worked on:
 
-- [Book Management System](https://github.com/ibrahzizo360/BookManagementSystem_React_FastAPI) - a web app for managing a library of books
-- [Blog web app](https://github.com/ibrahzizo360/BlogWebApp_MERN) - a blog web app
+- [Movie Web app](https://github.com/pbessilfie/CineSpectra-Movie-Website-.git) - Explore movies, read reviews, and watch trailers. Discover your next favorite film!
+- [Blog web app](https://github.com/pbessilfie/BitBlogHub.git) - a blog web app
   <br/>
   ## 📫 How to reach me
 * My personal email: essilfieprinceb2301@gmail.com
