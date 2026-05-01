@@ -1,78 +1,94 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=green&lines=Essilfie+Prince+Here!+👋;+Welcome+to+my+space!+🤗+✨;" />
-</h1>
+<h1 align="center">Essilfie Prince Bondzie</h1>
 
+<p align="center">
+  <strong>Frontend Engineer &nbsp;|&nbsp; React.js · Next.js · TypeScript</strong><br/>
+  Building scalable, production-ready web applications from Accra, Ghana
+</p>
 
-
-<!--
-**pbessilfie/pbessilfie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## Projects
-
-
--->
-<div align = "center">
-**I'm Essilfie Prince Bondzie, a passionate frontend engineer.**
-  <br/>
-🤝 I'm open to collaborate to **open-source projects and connecting with fellow developers**👨‍💻
-  <br/>
-  Here are a few projects I've worked on:
-
-- [Movie Web app](https://github.com/pbessilfie/CineSpectra-Movie-Website-.git) - Explore movies, read reviews, and watch trailers. Discover your next favorite film!
-- [Blog web app](https://github.com/pbessilfie/BitBlogHub.git) - a blog web app
-  <br/>
-  ## 📫 How to reach me
-* My personal email: essilfieprinceb2301@gmail.com
-  
-</div>
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paa_kow_2301) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-essilfie-bondzie-600aa322a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@paakow_2301) [![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prince.essilfiebondzie) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-<br/>
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<br>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,github,wordpress" />
-    <img src="https://skillicons.dev/icons?i=nextjs,python,java,cs,cpp,mysql,vscode" /><br>
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pbessilfie&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pbessilfie&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pbessilfie&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pbessilfie&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<p align="center">
+  <a href="mailto:essilfieprinceb2301@gmail.com">
+    <img src="https://img.shields.io/badge/Email-essilfieprinceb2301%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/prince-essilfie-bondzie-600aa322a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Essilfie%20Bondzie-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/pbessilfie">
+    <img src="https://img.shields.io/badge/GitHub-pbessilfie-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/@paakow_2301">
+    <img src="https://img.shields.io/badge/Twitter-@paakow__2301-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pbessilfie&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<hr/>
+## About Me
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Thank+you+for+the+visit!+🙏;+See+you+another+time!+😊;+Byeee!+👋" />
-</div>
+I'm a Frontend Engineer with 3+ years of experience building production-ready web applications. I specialise in turning complex requirements and Figma designs into responsive, performant, and accessible user interfaces.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Currently working as a **Frontend Web Engineer at Nestsofts** and co-founding **Ahoma**
+- Pursuing a **BSc. Computer Science** at the University of Ghana (Second Class Upper, Feb 2026)
+- Based in **Accra, Ghana** — open to remote freelance and contract opportunities
+- Open to collaborating on open-source projects and connecting with fellow developers
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript, TypeScript |
+| **Frameworks & Libraries** | React.js, Next.js, TailwindCSS |
+| **Backend & Database** | Firebase, Node.js |
+| **Design & Tools** | Figma, Git, GitHub, Vercel |
+
+---
+
+## Featured Projects
+
+### [HCare](https://hcare.nestsofts.com)
+Insurance platform connecting patients with providers — built with React.js, REST API integration, and role-based authentication.
+
+### [Ahoma](https://ahomagh.com)
+Customer management web app for fashion designers featuring Firebase real-time database, UI/UX research-driven design, and full mobile responsiveness.
+
+### [Generative AI App](https://frazai.vercel.app)
+AI-powered chatbot built with React.js and the Google Gemini API, delivering intelligent, context-aware responses.
+
+### [Car Dealership WebApp](https://ab-autohub-motors.vercel.app)
+Vehicle listing and sales platform enabling dealers to showcase inventory and engage customers effectively.
+
+### [CineSpectre](https://cine-spectra-movie-website.vercel.app)
+Movie exploration site featuring reviews, trailers, and an optimised UI for seamless navigation.
+
+### [BitBlog](https://bitbog-hub.vercel.app)
+Responsive blog platform built with React.js featuring a clean, categorised post structure.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pbessilfie&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbessilfie&theme=default&hide_border=true&layout=compact" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pbessilfie&theme=default&hide_border=true" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pbessilfie&theme=flat&no-frame=true&margin-w=6&column=6" />
+</p>
+
+---
+
+<p align="center">
+  Open to freelance, contract, and remote opportunities. Feel free to reach out.<br/>
+  <a href="mailto:essilfieprinceb2301@gmail.com">essilfieprinceb2301@gmail.com</a>
+</p>
