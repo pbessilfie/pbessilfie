@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a Frontend Engineer with 3+ years of experience building production-ready web applications. I specialise in turning complex requirements and Figma designs into responsive, performant, and accessible user interfaces.
+I'm a Frontend Engineer with 4+ years of experience building production-ready web applications. I specialise in turning complex requirements and Figma designs into responsive, performant, and accessible user interfaces.
 
 - Currently working as a **Frontend Web Engineer at Nestsofts** and co-founding **Ahoma**
 - Pursuing a **BSc. Computer Science** at the University of Ghana (Second Class Upper, Feb 2026)
