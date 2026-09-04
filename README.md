@@ -1,8 +1,8 @@
 <h1 align="center">Essilfie Prince Bondzie</h1>
 
 <p align="center">
-  <strong>Frontend Engineer &nbsp;|&nbsp; React.js · Next.js · TypeScript</strong><br/>
-  Building scalable, production-ready web applications from Accra, Ghana
+  <strong>Frontend Engineer &nbsp;|&nbsp; Next.js · React · TypeScript</strong><br/>
+  Building marketplaces, booking platforms, and AI products from Accra, Ghana
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://github.com/pbessilfie">
     <img src="https://img.shields.io/badge/GitHub-pbessilfie-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/@paakow_2301">
+  <a href="https://twitter.com/paakow_2301">
     <img src="https://img.shields.io/badge/Twitter-@paakow__2301-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -24,12 +24,12 @@
 
 ## About Me
 
-I'm a Frontend Engineer with 4+ years of experience building production-ready web applications. I specialise in turning complex requirements and Figma designs into responsive, performant, and accessible user interfaces.
+I'm a Frontend Engineer with 3+ years of experience shipping production web applications — marketplaces, booking flows, and AI tooling. I work end to end on the frontend: translating Figma designs into responsive interfaces, wiring them to real APIs and search infrastructure, and keeping them fast and accessible under real traffic.
 
-- Currently working as a **Frontend Web Engineer at Nestsofts** and co-founding **Ahoma**
-- Pursuing a **BSc. Computer Science** at the University of Ghana (Second Class Upper, Feb 2026)
-- Based in **Accra, Ghana** — open to remote freelance and contract opportunities
-- Open to collaborating on open-source projects and connecting with fellow developers
+- Frontend Engineer at **[Traaple](https://traaple.com/)**, building experience discovery for a pan-African marketplace
+- Co-founder of **[Enginex](https://enginexai.dev)** (AI app builder) and **[Ahoma](https://ahoma-market-place.vercel.app/)** (fashion marketplace)
+- **BSc. Computer Science**, University of Ghana (2026)
+- Based in **Accra, Ghana** — open to remote, freelance, and contract work
 
 ---
 
@@ -37,32 +37,39 @@ I'm a Frontend Engineer with 4+ years of experience building production-ready we
 
 | Category | Technologies |
 |---|---|
-| **Languages** | JavaScript, TypeScript |
-| **Frameworks & Libraries** | React.js, Next.js, TailwindCSS |
-| **Backend & Database** | Firebase, Node.js |
-| **Design & Tools** | Figma, Git, GitHub, Vercel |
+| **Languages** | TypeScript, JavaScript |
+| **Frameworks** | Next.js (App Router), React 19, React Native, Node.js |
+| **Styling & Motion** | Tailwind CSS, Framer Motion |
+| **Data & State** | TanStack Query, Elasticsearch, Firebase, REST APIs |
+| **Tooling & Deploy** | Vercel, Git, GitHub, Figma, ESLint |
 
 ---
 
 ## Featured Projects
 
-### [HCare](https://hcare.nestsofts.com)
-Insurance platform connecting patients with providers — built with React.js, REST API integration, and role-based authentication.
+### [Traaple](https://traaple.com/) — Experience marketplace
+Experience discovery interface for a marketplace of cultural tours, dining, activities, and adventures across Africa. Elasticsearch-backed filtering, location search, and paginated results, with companion React Native mobile apps.
+`Next.js` `TypeScript` `React Native` `Elasticsearch` `TanStack Query`
 
-### [Ahoma](https://ahomagh.com)
-Customer management web app for fashion designers featuring Firebase real-time database, UI/UX research-driven design, and full mobile responsiveness.
+### [Enginex](https://enginexai.dev) — AI app builder
+Co-founded product that turns a plain-text description into a working website, booking flow, and payment setup, with an in-browser code editor for refinement.
+`Next.js` `TypeScript` `AI` `WebContainer` `Firebase`
 
-### [Generative AI App](https://frazai.vercel.app)
-AI-powered chatbot built with React.js and the Google Gemini API, delivering intelligent, context-aware responses.
+### [Self Vibe](https://selfvibe.io/) — Beauty & wellness booking
+Customer booking platform and companion React Native apps for discovering, booking, and paying for beauty and wellness services.
+`Next.js` `React Native` `Booking` `Payments`
 
-### [Car Dealership WebApp](https://ab-autohub-motors.vercel.app)
-Vehicle listing and sales platform enabling dealers to showcase inventory and engage customers effectively.
+### [Ahoma Marketplace](https://ahoma-market-place.vercel.app/) — Fashion marketplace
+Co-founded marketplace connecting shoppers with curated collections, verified tailors and designers, and brand storefronts, with category browsing and service booking.
+`Next.js` `E-commerce` `Booking` `Vercel`
 
-### [CineSpectre](https://cine-spectra-movie-website.vercel.app)
-Movie exploration site featuring reviews, trailers, and an optimised UI for seamless navigation.
+### [EAS Consulting](https://eas-consult.vercel.app) — Consultancy site
+Marketing site for a Ghanaian business strategy consultancy, with service pages, client testimonials, a thought-leadership blog, and a contact and enquiry flow.
+`Next.js` `Tailwind CSS` `Framer Motion` `Resend`
 
-### [BitBlog](https://bitbog-hub.vercel.app)
-Responsive blog platform built with React.js featuring a clean, categorised post structure.
+### [New Levels Technologies](https://new-level-technologies.vercel.app) — Security systems
+Marketing site for an Accra security systems installer, presenting CCTV, electric fencing, access control, GPS fleet tracking, and alarm services with lead-capture flows.
+`Next.js` `Marketing Site` `Vercel`
 
 ---
 
