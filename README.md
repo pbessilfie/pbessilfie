@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a Frontend Engineer with 3+ years of experience shipping production web applications — marketplaces, booking flows, and AI tooling. I work end to end on the frontend: translating Figma designs into responsive interfaces, wiring them to real APIs and search infrastructure, and keeping them fast and accessible under real traffic.
+I'm a Frontend Engineer with 3+ years of experience shipping production web applications; marketplaces, booking flows, and AI tooling. I work end to end on the frontend: translating Figma designs into responsive interfaces, wiring them to real APIs and search infrastructure, and keeping them fast and accessible under real traffic.
 
 - Frontend Engineer at **[Traaple](https://traaple.com/)**, building experience discovery for a pan-African marketplace
 - Co-founder of **[Enginex](https://enginexai.dev)** (AI app builder) and **[Ahoma](https://ahoma-market-place.vercel.app/)** (fashion marketplace)
