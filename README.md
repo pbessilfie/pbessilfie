@@ -12,12 +12,7 @@
   <a href="https://linkedin.com/in/prince-essilfie-bondzie-600aa322a/">
     <img src="https://img.shields.io/badge/LinkedIn-Prince%20Essilfie%20Bondzie-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/pbessilfie">
-    <img src="https://img.shields.io/badge/GitHub-pbessilfie-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/paakow_2301">
-    <img src="https://img.shields.io/badge/Twitter-@paakow__2301-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
+
 </p>
 
 ---
